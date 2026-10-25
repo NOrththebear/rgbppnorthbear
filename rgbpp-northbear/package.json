@@ -1,0 +1,16 @@
+{
+  "name": "rgbpp-northbear",
+  "type": "module",
+  "scripts": {
+    "issue": "tsx issue.ts"
+  },
+  "dependencies": {
+    "@ckb-ccc/core": "latest",
+    "@ckb-ccc/rgbpp": "0.0.0-canary-20260204233059",
+    "@ckb-ccc/spore": "^1.6.15"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
